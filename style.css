@@ -1,0 +1,28 @@
+.container-fluid {
+    position: relative;
+    background-color: #90ee90;
+    color: #245e19;
+    border: 2px solid #245e19;
+    margin: auto;
+    width: 400px;
+    top: 200px;
+    height: 200px;
+}
+
+/*#tweet-quote {*/
+/*    text-decoration: none;*/
+/*    color: #245e19;*/
+/*    margin: auto;*/
+/*}*/
+
+/*#new-quote {*/
+/*    background-color: #245e19;*/
+/*    color: #ffffff;*/
+/*    margin: auto;*/
+/*}*/
+
+.btn {
+    background-color: #245e19;
+    color: #ffffff;
+    margin: auto;
+}
